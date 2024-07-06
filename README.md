@@ -1,5 +1,5 @@
 ## Hi there
-<img src="/blob/903b2a46d2bf8e1c7c95512fca816439c5850693/link.gif" width="250" height="250"/>
+<img src="https://github.com/caperongo/aesthetics/blob/main/link.gif" width="250" height="250"/>
 
 <!--
 **caperongo/caperongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
