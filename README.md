@@ -1,4 +1,8 @@
-## Hi there <img src="https://github.com/caperongo/aesthetics/blob/main/link.gif" width="100" height="100"/>
+img { 
+    width: 100px;
+    margin-top: 5px; 
+  }
+## Hi there <img src="https://github.com/caperongo/aesthetics/blob/main/link.gif"/>
 
 <!--
 **caperongo/caperongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
