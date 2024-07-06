@@ -1,4 +1,5 @@
-## Hi there <img src="/for_readme_profile/pikuniku.gif"/>
+## Hi there
+<img src="/aesthetics/for_readme_profile/pikuniku.gif"/>
 
 <!--
 **caperongo/caperongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
