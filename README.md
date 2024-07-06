@@ -1,12 +1,9 @@
-<h1 align="center">Greetings!</h1>
+<h1 align="center">✨Greetings!✨</h1>
 <p align="center">
 <img src="https://github.com/caperongo/aesthetics/blob/c7802c74419f5fb7833cdcf19d60ab51303f51e0/for_readme_profile/pikuniku.gif" width="384" height="216"/>
-</p>
+ile) appears on your GitHub profi</p>
+I'm Mariana Souza and my current pursuit is a bachelor's degree in Computer Science.
 <!--
-**caperongo/caperongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
