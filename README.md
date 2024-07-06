@@ -4,8 +4,8 @@
 <br> I'm Mariana Souza and my current pursuit is a bachelor's degree in Computer Science.
 </p>
 <p>
-- My favorite hobbies are drawing, listening to music, playing videogames and deepening some knowledge;
-<br> - This readme is under construction, updates soon!
+✨ My favorite hobbies are drawing, listening to music, playing videogames and deepening some knowledge;
+<br> ✨ Profile's readme under construction, updates soon!
 </p>
 <!--
 - 🔭 I’m currently working on ...
