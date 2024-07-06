@@ -1,8 +1,8 @@
 <h1 align="center">✨Greetings!✨</h1>
 <p align="center">
 <img src="https://github.com/caperongo/aesthetics/blob/c7802c74419f5fb7833cdcf19d60ab51303f51e0/for_readme_profile/pikuniku.gif" width="384" height="216"/>
-ile) appears on your GitHub profi</p>
 I'm Mariana Souza and my current pursuit is a bachelor's degree in Computer Science.
+</p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
