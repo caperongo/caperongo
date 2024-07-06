@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ![tumblr_mrj9z8CQVp1st1pw0o1_500](https://github.com/caperongo/caperongo/assets/174759991/492fd6f3-dbb3-47bc-9401-e5f420f57b1e)
+
 
 <!--
 **caperongo/caperongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
