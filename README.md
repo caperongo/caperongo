@@ -1,6 +1,5 @@
-<p align="center">
-
 <h1 alignt="center">aedef</h1>
+<p align="center">
 <img src="https://github.com/caperongo/aesthetics/blob/c7802c74419f5fb7833cdcf19d60ab51303f51e0/for_readme_profile/pikuniku.gif" width="512" height="288"/>
 </p>
 <!--
