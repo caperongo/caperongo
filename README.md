@@ -2,7 +2,7 @@
 <h1>Greetings!</h1>
 <p>
 I'm Mariana Souza and my current pursuit is a bachelor's degree in Computer Science.
-<br> ✨ My favorite hobbies are drawing, listening to music, playing videogames and deepening some knowledge;
+<br><br> ✨ My favorite hobbies are drawing, listening to music, playing videogames and deepening some knowledge;
 <br> ✨ Profile's readme under construction, updates soon!
 </p>
 <!--
