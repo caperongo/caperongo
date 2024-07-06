@@ -4,7 +4,7 @@ I'm Mariana Souza and my current pursuit is a bachelor's degree in Computer Scie
 <br><br> ✨ My favorite hobbies are drawing, listening to music, playing videogames and deepening some knowledge;
 <br> ✨ Profile's readme under construction, updates soon!
 </p>
-<p align="center">
+<p align="right">
 <img src="https://github.com/caperongo/aesthetics/blob/c7802c74419f5fb7833cdcf19d60ab51303f51e0/for_readme_profile/pikuniku.gif" width="384" height="216"/>
 </p>
   <!--
